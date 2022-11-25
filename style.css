@@ -5,6 +5,9 @@
 .container {
   padding: 0 1rem;
 }
+.utama {
+  display: flex;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
